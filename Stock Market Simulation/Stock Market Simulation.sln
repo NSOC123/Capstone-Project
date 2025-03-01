@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Stock Market Simulation", "Stock Market Simulation\Stock Market Simulation.pyproj", "{ABF5BB0C-B154-4A41-A2BA-417FFABD3A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF5BB0C-B154-4A41-A2BA-417FFABD3A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF5BB0C-B154-4A41-A2BA-417FFABD3A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C7A776-58AA-47EA-AE0B-DBDB87AA00DB}
+	EndGlobalSection
+EndGlobal
